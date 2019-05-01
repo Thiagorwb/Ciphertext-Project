@@ -79,6 +79,19 @@ def count_matrix(textvector, m):
 
     return matrix 
 
+def accuracy(plaintext, computedtext):
+
+    if len(plaintext)!=len(computedtext):
+        print "Length Fail"
+        return 0
+    # computes accuracy
+    c = 0
+    for i in range(len(plaintext)):
+        if plaintext[i]==computedtext[i]:
+            c+= 1
+
+    return float(c)/len(plaintext)
+
 
 
 

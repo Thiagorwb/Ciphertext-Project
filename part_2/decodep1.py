@@ -76,6 +76,11 @@ def decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_
         if computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp) != -float("inf"):
             notvalid = False
 
+    plaintext = util._read_text(None, "test_plaintext")
+    computedtext = decrypt(permutation, textvector, alphabet)
+
+    print("initial accuracy", accuracy(computedtext, plaintext))
+
     while t < niters and s < nstop:
 
         permutation_list.append(permutation)
@@ -189,13 +194,14 @@ def lengthexperiment(number, plaintext, textvector, alphabet):
 
 if __name__ == '__main__':
 
-    """
+    
     # import text
     ciphertext = util._read_text(None, "test_ciphertext")
     plaintext = util._read_text(None, "test_plaintext")
     alphabet = util._read_csv("data", "alphabet")[0]
     textvector = util.to_index(ciphertext, alphabet)
 
+    """
     computedtext, data = decode(ciphertext, False)
     (loglist, acceptances, permutation_list) = data
     newloglist = []
@@ -204,7 +210,7 @@ if __name__ == '__main__':
 
     statistics.plainplot("Iteration", "Log likelihood per symbol [bits]", "bitplot.png", newloglist)
 
-    
+    """
 
     # Decode
     computedtext, data = decode(ciphertext, False)
@@ -221,6 +227,7 @@ if __name__ == '__main__':
 
     print ("the final number of errors is ", c)
 
+    """
     # Plots and statistics
     accuracyplot(permutation_list, plaintext, textvector, alphabet)
     statistics.acceptanceplot(acceptances[:3000], 100)
