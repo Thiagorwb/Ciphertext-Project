@@ -1,0 +1,2639 @@
+[2019-04-26 18:44:53.661734] !!! ERROR !!!
+[2019-04-26 18:44:53.662267]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:44:53.695225] !!! ERROR !!!
+[2019-04-26 18:44:53.695394]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:45:53.821647] !!! ERROR !!!
+[2019-04-26 18:45:53.821925]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:45:53.859408] !!! ERROR !!!
+[2019-04-26 18:45:53.859595]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:51:13.109289] !!! ERROR !!!
+[2019-04-26 18:51:13.109491]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:51:13.141180] !!! ERROR !!!
+[2019-04-26 18:51:13.141376]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:51:37.997955] !!! ERROR !!!
+[2019-04-26 18:51:37.998211]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:51:38.036223] !!! ERROR !!!
+[2019-04-26 18:51:38.036507]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:55:30.105293] !!! ERROR !!!
+[2019-04-26 18:55:30.105510]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:55:30.141826] !!! ERROR !!!
+[2019-04-26 18:55:30.142004]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:55:58.580796] !!! ERROR !!!
+[2019-04-26 18:55:58.580981]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:55:58.613463] !!! ERROR !!!
+[2019-04-26 18:55:58.613624]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:56:58.798334] !!! ERROR !!!
+[2019-04-26 18:56:58.798831]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:56:58.830132] !!! ERROR !!!
+[2019-04-26 18:56:58.830315]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:57:32.593735] !!! ERROR !!!
+[2019-04-26 18:57:32.593992]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:57:32.631990] !!! ERROR !!!
+[2019-04-26 18:57:32.632249]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:57:49.576494] !!! ERROR !!!
+[2019-04-26 18:57:49.576777]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:57:49.617514] !!! ERROR !!!
+[2019-04-26 18:57:49.617758]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:58:18.024793] !!! ERROR !!!
+[2019-04-26 18:58:18.024941]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:58:18.056789] !!! ERROR !!!
+[2019-04-26 18:58:18.056955]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:59:04.054953] !!! ERROR !!!
+[2019-04-26 18:59:04.055210]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:59:04.086364] !!! ERROR !!!
+[2019-04-26 18:59:04.086552]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:59:48.978969] !!! ERROR !!!
+[2019-04-26 18:59:48.979612]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 18:59:49.011082] !!! ERROR !!!
+[2019-04-26 18:59:49.011265]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:00:32.533590] !!! ERROR !!!
+[2019-04-26 19:00:32.533795]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:00:32.571206] !!! ERROR !!!
+[2019-04-26 19:00:32.571403]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:00:56.642367] !!! ERROR !!!
+[2019-04-26 19:00:56.642538]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:00:56.681438] !!! ERROR !!!
+[2019-04-26 19:00:56.681590]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:01:24.116489] !!! ERROR !!!
+[2019-04-26 19:01:24.116687]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:01:24.157725] !!! ERROR !!!
+[2019-04-26 19:01:24.157899]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:01:28.195945] !!! ERROR !!!
+[2019-04-26 19:01:28.196124]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:01:28.232544] !!! ERROR !!!
+[2019-04-26 19:01:28.232846]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:01:54.174424] !!! ERROR !!!
+[2019-04-26 19:01:54.174657]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:01:54.213654] !!! ERROR !!!
+[2019-04-26 19:01:54.213847]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:02:08.891235] !!! ERROR !!!
+[2019-04-26 19:02:08.891439]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:02:08.934073] !!! ERROR !!!
+[2019-04-26 19:02:08.934339]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:02:25.627600] !!! ERROR !!!
+[2019-04-26 19:02:25.627895]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:02:25.664655] !!! ERROR !!!
+[2019-04-26 19:02:25.664910]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:03:09.479375] !!! ERROR !!!
+[2019-04-26 19:03:09.479658]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:03:09.513571] !!! ERROR !!!
+[2019-04-26 19:03:09.513818]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:05:34.763305] !!! ERROR !!!
+[2019-04-26 19:05:34.763602]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:05:34.795796] !!! ERROR !!!
+[2019-04-26 19:05:34.796017]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:06:09.794980] !!! ERROR !!!
+[2019-04-26 19:06:09.795220]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:06:09.826711] !!! ERROR !!!
+[2019-04-26 19:06:09.826890]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:11:12.109464] !!! ERROR !!!
+[2019-04-26 19:11:12.109716]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:11:12.152666] !!! ERROR !!!
+[2019-04-26 19:11:12.152867]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:20:10.849016] !!! ERROR !!!
+[2019-04-26 19:20:10.849549]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:20:10.880545] !!! ERROR !!!
+[2019-04-26 19:20:10.880747]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:47:28.527598] !!! ERROR !!!
+[2019-04-26 19:47:28.527792]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:47:28.571879] !!! ERROR !!!
+[2019-04-26 19:47:28.572085]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:47:56.438588] !!! ERROR !!!
+[2019-04-26 19:47:56.438821]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:47:56.481319] !!! ERROR !!!
+[2019-04-26 19:47:56.481509]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:48:31.995530] !!! ERROR !!!
+[2019-04-26 19:48:31.995768]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:48:32.031165] !!! ERROR !!!
+[2019-04-26 19:48:32.031372]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:48:47.252164] !!! ERROR !!!
+[2019-04-26 19:48:47.252375]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:48:47.284625] !!! ERROR !!!
+[2019-04-26 19:48:47.284847]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:48:55.431682] !!! ERROR !!!
+[2019-04-26 19:48:55.431858]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:48:55.470353] !!! ERROR !!!
+[2019-04-26 19:48:55.470528]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:49:45.590352] !!! ERROR !!!
+[2019-04-26 19:49:45.590569]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:49:45.626703] !!! ERROR !!!
+[2019-04-26 19:49:45.626933]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:51:02.495632] !!! ERROR !!!
+[2019-04-26 19:51:02.495848]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:51:02.530859] !!! ERROR !!!
+[2019-04-26 19:51:02.531068]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:51:34.618123] !!! ERROR !!!
+[2019-04-26 19:51:34.618432]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:51:34.658953] !!! ERROR !!!
+[2019-04-26 19:51:34.659143]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:51:44.042915] !!! ERROR !!!
+[2019-04-26 19:51:44.043122]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:51:44.074427] !!! ERROR !!!
+[2019-04-26 19:51:44.074637]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 19:55:54.213207] !!! ERROR !!!
+[2019-04-26 19:55:54.214139] b'  File "./decode", line 11\n    print decode(sys.argv[1], has_breakpoint)\n                                            ^\nIndentationError: unindent does not match any outer indentation level\n'
+[2019-04-26 19:55:54.253337] !!! ERROR !!!
+[2019-04-26 19:55:54.254482] b'  File "./decode", line 11\n    print decode(sys.argv[1], has_breakpoint)\n                                            ^\nIndentationError: unindent does not match any outer indentation level\n'
+[2019-04-26 20:11:49.831543] !!! ERROR !!!
+[2019-04-26 20:11:49.832692] b'  File "./decode", line 11\n    print decode(sys.argv[1], has_breakpoint)\n                                            ^\nIndentationError: unindent does not match any outer indentation level\n'
+[2019-04-26 20:11:49.869426] !!! ERROR !!!
+[2019-04-26 20:11:49.870379] b'  File "./decode", line 11\n    print decode(sys.argv[1], has_breakpoint)\n                                            ^\nIndentationError: unindent does not match any outer indentation level\n'
+[2019-04-26 20:19:49.786238] !!! ERROR !!!
+[2019-04-26 20:19:49.786452]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:19:49.818830] !!! ERROR !!!
+[2019-04-26 20:19:49.818990]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:25:29.306501] !!! ERROR !!!
+[2019-04-26 20:25:29.306705]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:25:29.345802] !!! ERROR !!!
+[2019-04-26 20:25:29.346045]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:27:15.753209] !!! ERROR !!!
+[2019-04-26 20:27:15.753382]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:27:15.789326] !!! ERROR !!!
+[2019-04-26 20:27:15.789535]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:28:30.913099] !!! ERROR !!!
+[2019-04-26 20:28:30.913289]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:28:30.952007] !!! ERROR !!!
+[2019-04-26 20:28:30.952262]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:30:15.697567] !!! ERROR !!!
+[2019-04-26 20:30:15.697841]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:30:15.740884] !!! ERROR !!!
+[2019-04-26 20:30:15.741135]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:31:54.389194] !!! ERROR !!!
+[2019-04-26 20:31:54.389414]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:31:54.423659] !!! ERROR !!!
+[2019-04-26 20:31:54.423844]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:34:56.510340] !!! ERROR !!!
+[2019-04-26 20:34:56.510520]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:34:56.557491] !!! ERROR !!!
+[2019-04-26 20:34:56.557751]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:44:08.006576] !!! ERROR !!!
+[2019-04-26 20:44:08.006919]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:44:08.039842] !!! ERROR !!!
+[2019-04-26 20:44:08.040076]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:47:50.315257] !!! ERROR !!!
+[2019-04-26 20:47:50.315581]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:47:50.351967] !!! ERROR !!!
+[2019-04-26 20:47:50.352269]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:51:58.287804] !!! ERROR !!!
+[2019-04-26 20:51:58.288337]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:51:58.331698] !!! ERROR !!!
+[2019-04-26 20:51:58.331909]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:54:23.647257] !!! ERROR !!!
+[2019-04-26 20:54:23.647661]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:54:23.698358] !!! ERROR !!!
+[2019-04-26 20:54:23.698587]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:55:39.867005] !!! ERROR !!!
+[2019-04-26 20:55:39.867176]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:55:39.906250] !!! ERROR !!!
+[2019-04-26 20:55:39.906578]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:55:51.981855] !!! ERROR !!!
+[2019-04-26 20:55:51.982149]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:55:52.015687] !!! ERROR !!!
+[2019-04-26 20:55:52.015972]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:56:38.444187] !!! ERROR !!!
+[2019-04-26 20:56:38.444540]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:56:38.477004] !!! ERROR !!!
+[2019-04-26 20:56:38.477269]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:57:27.578999] !!! ERROR !!!
+[2019-04-26 20:57:27.579376]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:57:27.620771] !!! ERROR !!!
+[2019-04-26 20:57:27.621201]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:59:46.523458] !!! ERROR !!!
+[2019-04-26 20:59:46.523869]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 20:59:46.557779] !!! ERROR !!!
+[2019-04-26 20:59:46.558036]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 21:01:04.907827] !!! ERROR !!!
+[2019-04-26 21:01:04.908011]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 21:01:04.948932] !!! ERROR !!!
+[2019-04-26 21:01:04.949117]   File "./decode", line 11
+    print decode(sys.argv[1], has_breakpoint)
+                                            ^
+IndentationError: unindent does not match any outer indentation level
+
+[2019-04-26 21:04:35.715387] !!! ERROR !!!
+[2019-04-26 21:04:35.716011] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:04:35.872468] !!! ERROR !!!
+[2019-04-26 21:04:35.872648] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:04:52.561286] !!! ERROR !!!
+[2019-04-26 21:04:52.561852] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:04:52.696592] !!! ERROR !!!
+[2019-04-26 21:04:52.696803] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:06:56.506628] !!! ERROR !!!
+[2019-04-26 21:06:56.506865] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:06:56.646859] !!! ERROR !!!
+[2019-04-26 21:06:56.647069] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:08:13.606432] !!! ERROR !!!
+[2019-04-26 21:08:13.606652] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:08:13.729694] !!! ERROR !!!
+[2019-04-26 21:08:13.729921] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:09:41.400360] !!! ERROR !!!
+[2019-04-26 21:09:41.400677] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:09:41.519032] !!! ERROR !!!
+[2019-04-26 21:09:41.519304] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:11:04.268694] !!! ERROR !!!
+[2019-04-26 21:11:04.268951] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 2, in <module>
+    from util.py import *
+ImportError: No module named py
+
+[2019-04-26 21:11:04.386164] !!! ERROR !!!
+[2019-04-26 21:11:04.386434] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 2, in <module>
+    from util.py import *
+ImportError: No module named py
+
+[2019-04-26 21:11:13.631191] !!! ERROR !!!
+[2019-04-26 21:11:13.631427] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:11:13.751219] !!! ERROR !!!
+[2019-04-26 21:11:13.760294] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:11:38.011875] !!! ERROR !!!
+[2019-04-26 21:11:38.012116] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = util._read_csv("data", "alphabet")[0]
+NameError: global name 'util' is not defined
+
+[2019-04-26 21:11:38.141118] !!! ERROR !!!
+[2019-04-26 21:11:38.141367] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = util._read_csv("data", "alphabet")[0]
+NameError: global name 'util' is not defined
+
+[2019-04-26 21:12:35.263871] !!! ERROR !!!
+[2019-04-26 21:12:35.264248] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 2, in <module>
+    from __util__ import *
+ImportError: No module named __util__
+
+[2019-04-26 21:12:35.406610] !!! ERROR !!!
+[2019-04-26 21:12:35.406850] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 2, in <module>
+    from __util__ import *
+ImportError: No module named __util__
+
+[2019-04-26 21:13:09.184367] !!! ERROR !!!
+[2019-04-26 21:13:09.184563] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = util._read_csv("data", "alphabet")[0]
+NameError: global name 'util' is not defined
+
+[2019-04-26 21:13:09.309100] !!! ERROR !!!
+[2019-04-26 21:13:09.309294] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = util._read_csv("data", "alphabet")[0]
+NameError: global name 'util' is not defined
+
+[2019-04-26 21:15:58.553574] !!! ERROR !!!
+[2019-04-26 21:15:58.554260] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:15:58.679571] !!! ERROR !!!
+[2019-04-26 21:15:58.679798] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:16:33.022979] !!! ERROR !!!
+[2019-04-26 21:16:33.023626] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:16:33.147779] !!! ERROR !!!
+[2019-04-26 21:16:33.148021] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")[0]
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:16:49.778510] !!! ERROR !!!
+[2019-04-26 21:16:49.778881] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:16:49.899483] !!! ERROR !!!
+[2019-04-26 21:16:49.899723] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:19:11.973500] !!! ERROR !!!
+[2019-04-26 21:19:11.974658] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:19:12.096458] !!! ERROR !!!
+[2019-04-26 21:19:12.096725] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = _read_csv("data", "alphabet")
+NameError: global name '_read_csv' is not defined
+
+[2019-04-26 21:19:45.896298] !!! ERROR !!!
+[2019-04-26 21:19:45.897000] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 23, in decode
+    textvector = to_index(ciphertext)
+NameError: global name 'to_index' is not defined
+
+[2019-04-26 21:19:46.099151] !!! ERROR !!!
+[2019-04-26 21:19:46.099375] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 23, in decode
+    textvector = to_index(ciphertext)
+NameError: global name 'to_index' is not defined
+
+[2019-04-26 21:20:04.214353] !!! ERROR !!!
+[2019-04-26 21:20:04.214733] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 25, in decode
+    ciphermatrix = count_matrix(textvector, m)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 47, in count_matrix
+    matrix[textvector[j+1], textvector[j]] += 1
+IndexError: index 8 is out of bounds for axis 0 with size 1
+
+[2019-04-26 21:20:04.353839] !!! ERROR !!!
+[2019-04-26 21:20:04.354033] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 25, in decode
+    ciphermatrix = count_matrix(textvector, m)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 47, in count_matrix
+    matrix[textvector[j+1], textvector[j]] += 1
+IndexError: index 22 is out of bounds for axis 0 with size 1
+
+[2019-04-26 21:21:14.416517] !!! ERROR !!!
+[2019-04-26 21:21:14.416756] [[ 0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 25, in decode
+    ciphermatrix = count_matrix(textvector, m)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 49, in count_matrix
+    matrix[textvector[j+1], textvector[j]] += 1
+IndexError: index 8 is out of bounds for axis 0 with size 1
+
+[2019-04-26 21:21:14.545632] !!! ERROR !!!
+[2019-04-26 21:21:14.545897] [[ 0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 25, in decode
+    ciphermatrix = count_matrix(textvector, m)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 49, in count_matrix
+    matrix[textvector[j+1], textvector[j]] += 1
+IndexError: index 22 is out of bounds for axis 0 with size 1
+
+[2019-04-26 21:21:39.475957] !!! ERROR !!!
+[2019-04-26 21:21:39.476294] [[ 0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 25, in decode
+    ciphermatrix = count_matrix(textvector, m)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 49, in count_matrix
+    matrix[textvector[j+1]][textvector[j]] += 1
+IndexError: index 8 is out of bounds for axis 0 with size 1
+
+[2019-04-26 21:21:39.605779] !!! ERROR !!!
+[2019-04-26 21:21:39.606036] [[ 0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 25, in decode
+    ciphermatrix = count_matrix(textvector, m)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 49, in count_matrix
+    matrix[textvector[j+1]][textvector[j]] += 1
+IndexError: index 22 is out of bounds for axis 0 with size 1
+
+[2019-04-26 21:22:25.004338] !!! ERROR !!!
+[2019-04-26 21:22:25.004593] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = math.log(letterp[inverse_permutation[firstindex]])
+NameError: global name 'math' is not defined
+
+[2019-04-26 21:22:25.155976] !!! ERROR !!!
+[2019-04-26 21:22:25.156234] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = math.log(letterp[inverse_permutation[firstindex]])
+NameError: global name 'math' is not defined
+
+[2019-04-26 21:23:09.659927] !!! ERROR !!!
+[2019-04-26 21:23:09.660112] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:23:09.805971] !!! ERROR !!!
+[2019-04-26 21:23:09.806333] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:25:39.528018] !!! ERROR !!!
+[2019-04-26 21:25:39.528255] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+(12, array([  1.,   6.,  18.,  14.,   2.,   3.,  12.,  19.,   0.,   9.,  10.,
+        21.,  23.,  20.,  17.,   5.,   7.,  16.,  25.,  15.,  26.,  11.,
+        24.,  27.,  22.,   4.,  13.,   8.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 117, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:25:39.672550] !!! ERROR !!!
+[2019-04-26 21:25:39.672788] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+(13, array([ 25.,  15.,   6.,  21.,  19.,   3.,  11.,   8.,  23.,  16.,   5.,
+        26.,  12.,  13.,  18.,   0.,   2.,  22.,  27.,  24.,   4.,   1.,
+         7.,  20.,  10.,  17.,   9.,  14.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 117, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:26:41.876880] !!! ERROR !!!
+[2019-04-26 21:26:41.877159] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+(12, array([ 13.,  20.,   5.,   0.,   8.,  25.,   9.,   6.,  16.,  23.,  11.,
+        15.,  27.,   7.,  10.,  17.,  19.,  12.,  14.,  21.,   4.,   1.,
+        24.,  22.,  26.,   3.,   2.,  18.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 117, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:26:42.020271] !!! ERROR !!!
+[2019-04-26 21:26:42.020598] [[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+(13, array([ 23.,  17.,   5.,  12.,  24.,  26.,   8.,  19.,  13.,   6.,   9.,
+         1.,  11.,   3.,  14.,  16.,   4.,  18.,  10.,  21.,  15.,  20.,
+        25.,  22.,   2.,   0.,  27.,   7.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 81, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 117, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:26:50.442085] !!! ERROR !!!
+[2019-04-26 21:26:50.442294] (12, array([ 19.,  26.,  14.,  24.,  27.,   3.,  20.,  23.,   0.,  17.,   6.,
+        16.,   5.,   7.,   1.,  18.,   4.,  15.,  12.,   2.,  25.,   9.,
+        22.,  10.,  13.,   8.,  21.,  11.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:26:50.576902] !!! ERROR !!!
+[2019-04-26 21:26:50.577095] (13, array([ 18.,   5.,  26.,  27.,  21.,  16.,  14.,   8.,   7.,  19.,  15.,
+         0.,  17.,  11.,  24.,  23.,  22.,   4.,   1.,  13.,  12.,  10.,
+         6.,   9.,   3.,   2.,  25.,  20.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:29:54.982916] !!! ERROR !!!
+[2019-04-26 21:29:54.983161] (12, array([  6.,   3.,  11.,  19.,  27.,   2.,  20.,   8.,  17.,  18.,  13.,
+         0.,   7.,  24.,  25.,   4.,   1.,  26.,  16.,  14.,  10.,  22.,
+         5.,  21.,  12.,   9.,  15.,  23.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:29:55.104711] !!! ERROR !!!
+[2019-04-26 21:29:55.105000] (13, array([  5.,  15.,  24.,  18.,  21.,  16.,  14.,   1.,   4.,  20.,  22.,
+        23.,  17.,   9.,  10.,   3.,  25.,   6.,  12.,  19.,   7.,  13.,
+         2.,   8.,  11.,   0.,  26.,  27.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:30:15.424689] !!! ERROR !!!
+[2019-04-26 21:30:15.424928] (12, array([ 25.,  23.,   0.,   9.,  12.,  19.,  16.,  27.,  22.,  14.,   7.,
+        21.,  17.,  13.,   1.,  24.,  10.,   2.,   3.,   8.,  20.,  18.,
+         4.,   6.,  26.,  11.,   5.,  15.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:30:15.548252] !!! ERROR !!!
+[2019-04-26 21:30:15.548612] (13, array([ 24.,  20.,   9.,  22.,  10.,  27.,  12.,   3.,  26.,  14.,   6.,
+         2.,  21.,   4.,  13.,   5.,  18.,  16.,  11.,   1.,  25.,  19.,
+         8.,   0.,  23.,  17.,   7.,  15.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:34:39.321617] !!! ERROR !!!
+[2019-04-26 21:34:39.321830] ('index, permutation ', 12, array([ 23.,   4.,  15.,  10.,  19.,   0.,   2.,   3.,  24.,   8.,  14.,
+         7.,  26.,  21.,   1.,  27.,  25.,   6.,   9.,  18.,  13.,  17.,
+         5.,  16.,  20.,  11.,  12.,  22.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:34:39.463404] !!! ERROR !!!
+[2019-04-26 21:34:39.463626] ('index, permutation ', 13, array([  2.,  14.,   5.,   9.,   3.,  26.,  23.,   1.,  12.,   6.,  10.,
+        25.,  16.,  21.,  18.,   7.,  11.,   8.,  24.,  27.,  22.,   0.,
+        19.,  20.,  13.,  17.,   4.,  15.]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:35:17.498302] !!! ERROR !!!
+[2019-04-26 21:35:17.498593] ('index, permutation ', 12, array([ 11.,  20.,   0.,   6.,  22.,   9.,  10.,  13.,  21.,  17.,   4.,
+         7.,   5.,  18.,  14.,  27.,  15.,  12.,   3.,   2.,  26.,  19.,
+        23.,   1.,  16.,   8.,  25.,  24.]), array([ 2, 23, 19, 18, 10, 12,  3, 11, 25,  5,  6,  0, 17,  7, 14, 16, 24,
+        9, 13, 21,  1,  8,  4, 22, 27, 26, 20, 15]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:35:17.629454] !!! ERROR !!!
+[2019-04-26 21:35:17.629705] ('index, permutation ', 13, array([  6.,   7.,  15.,  14.,  26.,  24.,  27.,  20.,   1.,  13.,   2.,
+         9.,  21.,  10.,   5.,  25.,  17.,  18.,   4.,   0.,  11.,  16.,
+        23.,   3.,  12.,  22.,  19.,   8.]), array([19,  8, 10, 23, 18, 14,  0,  1, 27, 11, 13, 20, 24,  9,  3,  2, 21,
+       16, 17, 26,  7, 12, 25, 22,  5, 15,  4,  6]))
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:35:46.553894] !!! ERROR !!!
+[2019-04-26 21:35:46.554197] ('index, permutation ', ['0.0643084687012869', '0.0124240852023591', '0.0186285748149663', '0.0354867000586228', '0.100298023499090', '0.0180969606192986', '0.0160730501814751', '0.0503605680544605', '0.0558449092566523', '0.00101834620924219', '0.00576176828244459', '0.0313693045382422', '0.0228347179510717', '0.0565304882193713', '0.0622880442581890', '0.0128126283644933', '0.000905632379778209', '0.0482666472225628', '0.0497274242624071', '0.0705347457809296', '0.0230119226829610', '0.00816332814888451', '0.0195822848720030', '0.00120513742662707', '0.0179691408126900', '0.000318823267620396', '0.186944020153698', '0.00923425477857252'])
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:35:46.686090] !!! ERROR !!!
+[2019-04-26 21:35:46.686403] ('index, permutation ', ['0.0643084687012869', '0.0124240852023591', '0.0186285748149663', '0.0354867000586228', '0.100298023499090', '0.0180969606192986', '0.0160730501814751', '0.0503605680544605', '0.0558449092566523', '0.00101834620924219', '0.00576176828244459', '0.0313693045382422', '0.0228347179510717', '0.0565304882193713', '0.0622880442581890', '0.0128126283644933', '0.000905632379778209', '0.0482666472225628', '0.0497274242624071', '0.0705347457809296', '0.0230119226829610', '0.00816332814888451', '0.0195822848720030', '0.00120513742662707', '0.0179691408126900', '0.000318823267620396', '0.186944020153698', '0.00923425477857252'])
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:36:29.894158] !!! ERROR !!!
+[2019-04-26 21:36:29.894360] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 112, in computeloglikelihood
+    print(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:36:30.026719] !!! ERROR !!!
+[2019-04-26 21:36:30.026955] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 112, in computeloglikelihood
+    print(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:37:29.130880] !!! ERROR !!!
+[2019-04-26 21:37:29.131196] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 112
+    print(letterp[int(inverse_permutation[firstindex]])
+                                                     ^
+SyntaxError: invalid syntax
+
+[2019-04-26 21:37:29.181056] !!! ERROR !!!
+[2019-04-26 21:37:29.181298] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 112
+    print(letterp[int(inverse_permutation[firstindex]])
+                                                     ^
+SyntaxError: invalid syntax
+
+[2019-04-26 21:37:44.293576] !!! ERROR !!!
+[2019-04-26 21:37:44.293865] 0.0643084687012869
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:37:44.430669] !!! ERROR !!!
+[2019-04-26 21:37:44.430907] 0.0622880442581890
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[inverse_permutation[firstindex]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:38:28.863778] !!! ERROR !!!
+[2019-04-26 21:38:28.864022] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 114, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:38:29.002132] !!! ERROR !!!
+[2019-04-26 21:38:29.002393] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 114, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:39:15.848199] !!! ERROR !!!
+[2019-04-26 21:39:15.848432] ['0.0643084687012869', '0.0124240852023591', '0.0186285748149663', '0.0354867000586228', '0.100298023499090', '0.0180969606192986', '0.0160730501814751', '0.0503605680544605', '0.0558449092566523', '0.00101834620924219', '0.00576176828244459', '0.0313693045382422', '0.0228347179510717', '0.0565304882193713', '0.0622880442581890', '0.0128126283644933', '0.000905632379778209', '0.0482666472225628', '0.0497274242624071', '0.0705347457809296', '0.0230119226829610', '0.00816332814888451', '0.0195822848720030', '0.00120513742662707', '0.0179691408126900', '0.000318823267620396', '0.186944020153698', '0.00923425477857252']
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:39:15.969302] !!! ERROR !!!
+[2019-04-26 21:39:15.969613] ['0.0643084687012869', '0.0124240852023591', '0.0186285748149663', '0.0354867000586228', '0.100298023499090', '0.0180969606192986', '0.0160730501814751', '0.0503605680544605', '0.0558449092566523', '0.00101834620924219', '0.00576176828244459', '0.0313693045382422', '0.0228347179510717', '0.0565304882193713', '0.0622880442581890', '0.0128126283644933', '0.000905632379778209', '0.0482666472225628', '0.0497274242624071', '0.0705347457809296', '0.0230119226829610', '0.00816332814888451', '0.0195822848720030', '0.00120513742662707', '0.0179691408126900', '0.000318823267620396', '0.186944020153698', '0.00923425477857252']
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:39:51.330417] !!! ERROR !!!
+[2019-04-26 21:39:51.330639] (['0.0643084687012869', '0.0124240852023591', '0.0186285748149663', '0.0354867000586228', '0.100298023499090', '0.0180969606192986', '0.0160730501814751', '0.0503605680544605', '0.0558449092566523', '0.00101834620924219', '0.00576176828244459', '0.0313693045382422', '0.0228347179510717', '0.0565304882193713', '0.0622880442581890', '0.0128126283644933', '0.000905632379778209', '0.0482666472225628', '0.0497274242624071', '0.0705347457809296', '0.0230119226829610', '0.00816332814888451', '0.0195822848720030', '0.00120513742662707', '0.0179691408126900', '0.000318823267620396', '0.186944020153698', '0.00923425477857252'], 8)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:39:51.466497] !!! ERROR !!!
+[2019-04-26 21:39:51.466745] (['0.0643084687012869', '0.0124240852023591', '0.0186285748149663', '0.0354867000586228', '0.100298023499090', '0.0180969606192986', '0.0160730501814751', '0.0503605680544605', '0.0558449092566523', '0.00101834620924219', '0.00576176828244459', '0.0313693045382422', '0.0228347179510717', '0.0565304882193713', '0.0622880442581890', '0.0128126283644933', '0.000905632379778209', '0.0482666472225628', '0.0497274242624071', '0.0705347457809296', '0.0230119226829610', '0.00816332814888451', '0.0195822848720030', '0.00120513742662707', '0.0179691408126900', '0.000318823267620396', '0.186944020153698', '0.00923425477857252'], 1)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:40:34.206968] !!! ERROR !!!
+[2019-04-26 21:40:34.207232] 0.000905632379778209
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:40:34.336666] !!! ERROR !!!
+[2019-04-26 21:40:34.336901] 0.186944020153698
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 115, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:41:40.313027] !!! ERROR !!!
+[2019-04-26 21:41:40.313273] ('0.0179691408126900', <type 'str'>)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 118, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:41:40.442252] !!! ERROR !!!
+[2019-04-26 21:41:40.442486] ('0.00120513742662707', <type 'str'>)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 118, in computeloglikelihood
+    value = log(letterp[int(inverse_permutation[firstindex])])
+TypeError: a float is required
+
+[2019-04-26 21:42:40.297234] !!! ERROR !!!
+[2019-04-26 21:42:40.297477] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 120, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(transitions[inverse_permutation[i]][inverse_permutation[j]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:42:40.435776] !!! ERROR !!!
+[2019-04-26 21:42:40.436048] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 120, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(transitions[inverse_permutation[i]][inverse_permutation[j]])
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:43:09.933389] !!! ERROR !!!
+[2019-04-26 21:43:09.933631] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = float(util._read_csv("data", "alphabet")[0])
+TypeError: float() argument must be a string or a number
+
+[2019-04-26 21:43:10.066063] !!! ERROR !!!
+[2019-04-26 21:43:10.066359] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 13, in decode
+    alphabet = float(util._read_csv("data", "alphabet")[0])
+TypeError: float() argument must be a string or a number
+
+[2019-04-26 21:44:14.574043] !!! ERROR !!!
+[2019-04-26 21:44:14.574290] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 76, in decodeMC
+    new_permutation[a], new_permutation[b] = new_permutation[b],new_permutation[a]
+IndexError: index out of bounds
+
+[2019-04-26 21:44:14.711458] !!! ERROR !!!
+[2019-04-26 21:44:14.711749] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 76, in decodeMC
+    new_permutation[a], new_permutation[b] = new_permutation[b],new_permutation[a]
+IndexError: index out of bounds
+
+[2019-04-26 21:44:43.241572] !!! ERROR !!!
+[2019-04-26 21:44:43.241798] (24, 25)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(float(transitions[inverse_permutation[i]][inverse_permutation[j]]))
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-26 21:44:43.369316] !!! ERROR !!!
+[2019-04-26 21:44:43.369575] (4, 19)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(float(transitions[inverse_permutation[i]][inverse_permutation[j]]))
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-27 16:00:45.758296] !!! ERROR !!!
+[2019-04-27 16:00:45.758814] (5, 20)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(float(transitions[inverse_permutation[i]][inverse_permutation[j]]))
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-27 16:00:45.885531] !!! ERROR !!!
+[2019-04-27 16:00:45.885724] (2, 8)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(float(transitions[inverse_permutation[i]][inverse_permutation[j]]))
+TypeError: list indices must be integers, not numpy.float64
+
+[2019-04-27 16:01:57.392646] !!! ERROR !!!
+[2019-04-27 16:01:57.392953] (5, 15)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(float(transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]))
+IndexError: string index out of range
+
+[2019-04-27 16:01:57.515483] !!! ERROR !!!
+[2019-04-27 16:01:57.515854] (24, 5)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(float(transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]))
+ValueError: math domain error
+
+[2019-04-27 16:02:46.357260] !!! ERROR !!!
+[2019-04-27 16:02:46.357498] (6, 9)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    v = float(transitions[int(inverse_permutation[i])][int(inverse_permutation[j])])
+ValueError: could not convert string to float: .
+
+[2019-04-27 16:02:46.477965] !!! ERROR !!!
+[2019-04-27 16:02:46.478195] (23, 27)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    v = float(transitions[int(inverse_permutation[i])][int(inverse_permutation[j])])
+IndexError: string index out of range
+
+[2019-04-27 16:05:07.834156] !!! ERROR !!!
+[2019-04-27 16:05:07.834422] (9, 3)
+('access value is ', '9')
+('access value is ', '7')
+('access value is ', '0')
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 124, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(v)
+ValueError: math domain error
+
+[2019-04-27 16:05:07.968937] !!! ERROR !!!
+[2019-04-27 16:05:07.969171] (12, 6)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    a = transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]
+IndexError: string index out of range
+
+[2019-04-27 16:06:00.049298] !!! ERROR !!!
+[2019-04-27 16:06:00.049515] (17, 27)
+('access value is a, v', '7', 7.0)
+('access value is a, v', '3', 3.0)
+('access value is a, v', '3', 3.0)
+('access value is a, v', '2', 2.0)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    a = transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]
+IndexError: string index out of range
+
+[2019-04-27 16:06:00.192002] !!! ERROR !!!
+[2019-04-27 16:06:00.192178] (21, 28)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 77, in decodeMC
+    new_permutation[a], new_permutation[b] = new_permutation[b],new_permutation[a]
+IndexError: index out of bounds
+
+[2019-04-27 16:07:31.202058] !!! ERROR !!!
+[2019-04-27 16:07:31.202260] (21, 10)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    a = transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]
+IndexError: string index out of range
+
+[2019-04-27 16:07:31.334070] !!! ERROR !!!
+[2019-04-27 16:07:31.334315] (14, 13)
+('access value is a, v', '7', 7.0)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 80, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    a = transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]
+IndexError: string index out of range
+
+[2019-04-27 16:09:00.404460] !!! ERROR !!!
+[2019-04-27 16:09:00.404906] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 121, in computeloglikelihood
+    v = float(transitions[int(inverse_permutation[i])][int(inverse_permutation[j])])
+ValueError: could not convert string to float: .
+
+[2019-04-27 16:09:00.550995] !!! ERROR !!!
+[2019-04-27 16:09:00.551230] ('access value is a, v', '0', 0.0)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 124, in computeloglikelihood
+    value += ciphermatrix[i][j]*log(v)
+ValueError: math domain error
+
+[2019-04-27 16:10:26.889200] !!! ERROR !!!
+[2019-04-27 16:10:26.889442] ('access value is a, v', '3', 3.0, 1.0986122886681098)
+('access value is a, v', '1', 1.0, 0.0)
+('access value is a, v', '5', 5.0, 1.6094379124341003)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 120, in computeloglikelihood
+    a = transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]
+IndexError: string index out of range
+
+[2019-04-27 16:10:27.013394] !!! ERROR !!!
+[2019-04-27 16:10:27.013605] ('access value is a, v', '7', 7.0, 1.9459101490553132)
+('access value is a, v', '1', 1.0, 0.0)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 120, in computeloglikelihood
+    a = transitions[int(inverse_permutation[i])][int(inverse_permutation[j])]
+IndexError: string index out of range
+
+[2019-04-27 16:12:35.187266] !!! ERROR !!!
+[2019-04-27 16:12:35.187494] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 122, in computeloglikelihood
+    print("access value is a, v", a, v, log(v))
+ValueError: math domain error
+
+[2019-04-27 16:12:35.307878] !!! ERROR !!!
+[2019-04-27 16:12:35.308197] ('access value is a, v', '0.000504501241865747', 0.000504501241865747, -7.591940256596342)
+('access value is a, v', '0.00470280728061659', 0.00470280728061659, -5.359595654826826)
+('access value is a, v', '0.189907131295450', 0.18990713129545, -1.6612201089703584)
+('access value is a, v', '0.0780910624593626', 0.0780910624593626, -2.549879665824969)
+('access value is a, v', '0.382135348343922', 0.382135348343922, -0.9619804180938666)
+('access value is a, v', '0.0546289060302895', 0.0546289060302895, -2.907192121847512)
+('access value is a, v', '0.0145998388284039', 0.0145998388284039, -4.226744789479196)
+('access value is a, v', '0.0302411821016579', 0.0302411821016579, -3.4985506377715345)
+('access value is a, v', '0.00474800705091674', 0.00474800705091674, -5.350030317207018)
+('access value is a, v', '0.119610114953939', 0.119610114953939, -2.1235178678482467)
+('access value is a, v', '0.0482646729939516', 0.0482646729939516, -3.031055393925652)
+('access value is a, v', '0.00454345364777428', 0.00454345364777428, -5.394067840757377)
+('access value is a, v', '0.0554097490188718', 0.0554097490188718, -2.892999725640807)
+('access value is a, v', '0.115055015839247', 0.115055015839247, -2.1623448664128673)
+('access value is a, v', '0.227838623111918', 0.227838623111918, -1.479117694000461)
+('access value is a, v', '0.0225309904453162', 0.0225309904453162, -3.7928635643273196)
+('access value is a, v', '0.0522355078608665', 0.0522355078608665, -2.9519927881235524)
+('access value is a, v', '0.0723050492710299', 0.0723050492710299, -2.626861314482381)
+('access value is a, v', '0.0155120223373132', 0.0155120223373132, -4.166139921040683)
+('access value is a, v', '0.132769720350066', 0.132769720350066, -2.0191390773500553)
+('access value is a, v', '9.99720078378055e-06', 9.99720078378055e-06, -11.513205425777544)
+('access value is a, v', '0.0499380176707558', 0.0499380176707558, -2.9969726891362916)
+('access value is a, v', '0.113551483194411', 0.113551483194411, -2.1754989484779115)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 122, in computeloglikelihood
+    print("access value is a, v", a, v, log(v))
+ValueError: math domain error
+
+[2019-04-27 16:13:19.638647] !!! ERROR !!!
+[2019-04-27 16:13:19.638860] ('access value is a, v', '0.000105149046774822', 0.000105149046774822)
+('the log', -9.160131721241136)
+('access value is a, v', '0.00221963984378216', 0.00221963984378216)
+('the log', -6.110410328789628)
+('access value is a, v', '3.52378768774005e-05', 3.52378768774005e-05)
+('the log', -10.2533890062311)
+('access value is a, v', '0.00996061819834567', 0.00996061819834567)
+('the log', -4.6091161412047805)
+('access value is a, v', '9.99720078378055e-06', 9.99720078378055e-06)
+('the log', -11.513205425777544)
+('access value is a, v', '0.293961998006551', 0.293961998006551)
+('the log', -1.2243047784791719)
+('access value is a, v', '0.000199786999334956', 0.000199786999334956)
+('the log', -8.518258762260475)
+('access value is a, v', '0.000465450539452598', 0.000465450539452598)
+('the log', -7.672504719410938)
+('access value is a, v', '0.00112737598030164', 0.00112737598030164)
+('the log', -6.787862487935247)
+('access value is a, v', '0.0800528969385461', 0.0800528969385461)
+('the log', -2.5250676510805934)
+('access value is a, v', '0.147757310199344', 0.147757310199344)
+('the log', -1.9121841471053558)
+('access value is a, v', '0.170874051303256', 0.170874051303256)
+('the log', -1.7668285359460854)
+('access value is a, v', '0.000371074986893743', 0.000371074986893743)
+('the log', -7.899106394773145)
+('access value is a, v', '0.000313877695988483', 0.000313877695988483)
+('the log', -8.066507151153495)
+('access value is a, v', '0', 0.0)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 123, in computeloglikelihood
+    print("the log", log(v))
+ValueError: math domain error
+
+[2019-04-27 16:13:19.776091] !!! ERROR !!!
+[2019-04-27 16:13:19.776454] ('access value is a, v', '0.0411808887681220', 0.041180888768122)
+('the log', -3.189780995096646)
+('access value is a, v', '0.000145996576604672', 0.000145996576604672)
+('the log', -8.83192738444405)
+('access value is a, v', '0.000253923912961910', 0.00025392391296191)
+('the log', -8.27847589108945)
+('access value is a, v', '0.00160585022072706', 0.00160585022072706)
+('the log', -6.434101930118684)
+('access value is a, v', '0.0128127046681643', 0.0128127046681643)
+('the log', -4.357318048110466)
+('access value is a, v', '9.99720078378055e-06', 9.99720078378055e-06)
+('the log', -11.513205425777544)
+('access value is a, v', '0.0344702729540876', 0.0344702729540876)
+('the log', -3.3676579798862933)
+('access value is a, v', '0.00428198162962897', 0.00428198162962897)
+('the log', -5.453339378961875)
+('access value is a, v', '0.0279692748410057', 0.0279692748410057)
+('the log', -3.576648698418065)
+('access value is a, v', '3.33726234918346e-05', 3.33726234918346e-05)
+('the log', -10.307774650016311)
+('access value is a, v', '9.99720078378054e-06', 9.99720078378054e-06)
+('the log', -11.513205425777544)
+('access value is a, v', '0', 0.0)
+Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 28, in decode
+    pcipherindex = decodeMC(niters, nstop, ciphermatrix, firstindex, transitions, letterp, has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 79, in decodeMC
+    ratiolog = computeloglikelihood(ciphermatrix, firstindex, new_permutation, transitions, letterp) - computeloglikelihood(ciphermatrix, firstindex, permutation, transitions, letterp)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 123, in computeloglikelihood
+    print("the log", log(v))
+ValueError: math domain error
+
+[2019-04-27 16:16:07.550824] !!! ERROR !!!
+[2019-04-27 16:16:07.551063] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 29, in decode
+    pcipher = util.to_text(pcipherindex)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/util.py", line 24, in to_text
+    d = dict(zip(range(len(alphabet))), alphabet)
+TypeError: dict expected at most 1 arguments, got 2
+
+[2019-04-27 16:16:07.718917] !!! ERROR !!!
+[2019-04-27 16:16:07.719215] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/decode.py", line 29, in decode
+    pcipher = util.to_text(pcipherindex)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/handout-2/util.py", line 24, in to_text
+    d = dict(zip(range(len(alphabet))), alphabet)
+TypeError: dict expected at most 1 arguments, got 2
+
+[2019-04-27 16:20:31.859901] !!! ERROR !!!
+[2019-04-27 16:20:31.861490] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:21:48.618096] !!! ERROR !!!
+[2019-04-27 16:21:48.618704] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:22:37.119348] !!! ERROR !!!
+[2019-04-27 16:22:37.120073] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:23:28.438451] !!! ERROR !!!
+[2019-04-27 16:23:28.438968] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:23:49.253597] !!! ERROR !!!
+[2019-04-27 16:23:49.254332] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:29:04.315885] !!! ERROR !!!
+[2019-04-27 16:29:04.316510] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:31:57.569413] !!! ERROR !!!
+[2019-04-27 16:31:57.570079] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:36:27.785745] !!! ERROR !!!
+[2019-04-27 16:36:27.786993] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:37:01.075829] !!! ERROR !!!
+[2019-04-27 16:37:01.076535] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:50:02.385981] !!! ERROR !!!
+[2019-04-27 16:50:02.387379] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:50:28.638242] !!! ERROR !!!
+[2019-04-27 16:50:28.639083] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:50:54.937258] !!! ERROR !!!
+[2019-04-27 16:50:54.938002] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:51:49.988637] !!! ERROR !!!
+[2019-04-27 16:51:49.989280] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:53:43.554997] !!! ERROR !!!
+[2019-04-27 16:53:43.555594] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 30, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:56:10.638971] !!! ERROR !!!
+[2019-04-27 16:56:10.639769] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-27 16:56:34.316408] !!! ERROR !!!
+[2019-04-27 16:56:34.317047] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
