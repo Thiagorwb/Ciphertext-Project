@@ -35,7 +35,7 @@ The MCMC sampling is a biased random walk on a graph. As such, inevitably this s
 
 When brute force searching for the most probable break position, we partition the search range into some number of regions s.t. each region is run in parallel.
 
-## Attempts
+## Additional Attempts
 
 ### 1. Riffle Shuffle Markov Chain
 
