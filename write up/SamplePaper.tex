@@ -1,0 +1,137 @@
+%% Note that anything in a LaTeX file which is preceded (on the same line)
+%% by a % is a comment, and is totally ignored by LaTeX.
+
+%\documentclass[aps,prd,preprint]{revtex4}
+\documentclass[aps,prd,final,twocolumn,letterpaper]{revtex4}
+\usepackage{amsfonts}
+\usepackage{tcolorbox}
+
+
+% Note:  comment out one of the two documentclass commands, depending
+% on whether you need the final or preprint version. It is most convenient
+% to work in preprint mode, and switch to final only at the end.
+
+\usepackage{graphicx}                            % Graphics package
+\usepackage{epstopdf}
+\usepackage{amsmath} 
+
+
+%% The next few lines are definitions of commands used by Prof. Jaffe
+%% when he wrote his paper.  The LaTeX-sophisticated among you
+%% may have defined some labor-saving commands of your own.
+%% If so, they go here.  The LaTeX-unsophisticated among you
+%% may nevertheless want to use some of Prof. Jaffe's commands,
+%% like \bra and \ket and \braket,  as done in the template below.
+%% If you use these commands in your paper, keep their definitions
+%% here.  If you do not use them, you can delete them.
+
+\newcommand{\sech}{\mathop{\rm sech}\nolimits}
+\newcommand{\bra}[1]{\left\langle #1 \right|}
+\newcommand{\ket}[1]{\left|#1\right\rangle}
+\newcommand{\braket}[2]{\left\langle#1 |  #2\right\rangle}
+\newcommand{\rd}[1]{\mathop{\mathrm{d}#1}}
+
+
+%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+
+%%%%%%%%%%%%%%
+%%
+%% Now, the document itself begins.  When you are ready to begin writing
+%% your own paper, you will cut content out of the following and
+%% replace it with your own.  Keep an unmodified copy of this
+%% LaTeX file, though, and a hard copy of the paper by Prof.
+%% Jaffe which it produces.  Comparing the template below with
+%% the hard copy it produces will help you see how to handle
+%% titles, sections, figures, equations, references, the bibliography
+%% and much more.  Good luck with your paper. JN.
+%%
+%%%%%%%%%%%%%%
+
+\title{Cipher Breaking using Markov Chain Monte Carlo}
+\author{Thiago~R.~Bergamaschi}
+\affiliation{ Center for Theoretical Physics,
+ 77 Massachusetts Ave.,
+Cambridge, MA 02139-4307}
+\date{\today} 
+
+\begin{abstract}
+\noindent	
+This is my report of Part 2 of the 6.437 final project in Spring 2019. We first implemented a Markov Chain to break a substitution Cipher encryption, and then refined our analysis in part 2. In particular, I propose 2 enhancements: Ensemble MCMC, i.e. running multiple walks on the MC in parallel, and initialization by linear assignment. We also adapt the search for the existence of a breakpoint in the ciphertext.
+\end{abstract}
+
+\maketitle
+\pagestyle{myheadings}
+\markboth{Thiago R. Bergamaschi}{6.437 Project Part 2}
+\thispagestyle{empty}
+
+
+\section{Introduction}
+A substitution cipher is a method of encryption by which units of plaintext the original message are replaced with ciphertext the encrypted message according to a ciphering function, e.g. some permutation of the alphabet $A = \{a, b, \cdots, z\}\cup \{\ ., \}$. 
+
+Given apriori probabilities for the letters in the english language, $p_a(i)=\mathbb{P}[i]$ for $i\in A$, and bigram transition probabilities, $M_{ij}=\mathbb{P}[x_{k} = i|x_{k-1} = j]$, there is a closed form expression for the likelihood of the observed ciphertext $\mathbf{y}$ for a given permutation $f$.
+
+\begin{equation}
+p_{\mathbf{y}|f}(\mathbf{y}|f) =  p_a(f^{-1}(y_1))\times \prod_{i=1} \mathbb{P}[f^{-1}(y_{i+1}) |f^{-1}(x_{i})]
+\end{equation}
+
+For part 1 of this project, we implement a simple Markov Chain on the set of possible permutations. This approach is shown in section 2 of the report, where we discuss and test general implementation enhancements as well. In section 3, we describe the algorithmic enhancements used in part 2. In particular, running multiple ($N = 5$ typically) walks on the Markov Chain and returning the maximum decreases the failure probability considerably, at little to no increase in runtime. Next, we improve on the permutation initialization by linear assignment. We define costs for each swap $ij$ of the permutation, based on the a priori probability of $i$ in the English language, and the empirical probability of $j$ in the ciphertext, and solve the assignment problem with the Hungarian algorithm.
+
+\section{Markov Chain Monte Carlo}
+Given these likelihoods, we can construct a Markov Chain on the set of possible permutations. Define edges between permutations that swap a pair of letters. At each vertex $f$, we pick one of $\binom{28}{2}$ adjacent edges $f'$, and transition there with probability
+\begin{equation}
+\min\{1, \frac{p_{\mathbf{y}|f}(\mathbf{y}|f')}{p_{\mathbf{y}|f}(\mathbf{y}|f)}\}
+\end{equation}
+
+the algorithmic description follows.\\
+
+\noindent \textbf{Input:} alphabet $A$, ciphertext $\mathbf{y}$, iteration number $T$.
+\noindent\textbf{Output:} most probable permutation $f_p$
+
+
+
+\begin{enumerate}
+\item initialize $f$ with some random permutation of $A$, and iteration count $t=0$. Compute $p_{\mathbf{y}|f}(\mathbf{y}|f)$
+\item While $t<T$, construct $f'$ by swapping 2 letters of $f$, and compute $p_{\mathbf{y}|f}(\mathbf{y}|f')$
+\item If $\frac{p_{\mathbf{y}|f}(\mathbf{y}|f')}{p_{\mathbf{y}|f}(\mathbf{y}|f)}> 1, f=f'$. 
+\item $t\leftarrow t + 1$, repeat step 2.
+\item Return $f$
+\end{enumerate}
+
+Clearly, there is immediate space for improvement by speeding up the $p_{\mathbf{y}|f}(\mathbf{y}|f)$ computation. Let us do so by definining a sufficient st
+
+Let us now describe some of the performance enhancements used on the MCMC computations. Specifically, we focus on defining a less memory intensive sufficient statistic, quickly computing loglikelihoods, and perturbing the 0 transition probabilities s.t. the loglikelihoods are strictly finite.
+
+\subsection{Performance Enhancements}
+Note first that we can compute the log likelihood $\log p_{\mathbf{y}|f}(\mathbf{y}|f)$ from $\log p_a(f^{-1}(y))$, and the count matrix $C$ where $c_{ij}$ is the number of times $j$ is preceded by $i$ in $y$. It follows 
+\begin{equation}
+\log p_{\mathbf{y}|f}(\mathbf{y}|f) = \log p_a(f^{-1}(y)) + \sum_{ij} c_{ij}\log M_{f(i)f(j)}
+\end{equation}
+
+\noindent and thus $C,p_a(\cdot)$ is a sufficient statistic for our model. 
+
+Moreover, we can precompute $C$ in $O(\text{text size})$ and compute the loglikelihood as in (3), instead of passing through the text at every vertex. 
+
+Finally, note that if we initialize the MCMC at some permutation $f$ that implies $p_{\mathbf{y}|f}(\mathbf{y}|f) = 0$ due to some 0 valued $M_{ij}$, then the loglikelihood value will be $-\infty$. More importantly, empirical evidence suggests that randomly initializing $f$ sets a considerable probability of failure, due to taking a long time to leave this minima. We easily fix this by assigning large, finite, negative values to the values of $\log M_{ij}$ when $M_{ij} = 0$. In particular, $-2000$ was found to work well.
+
+\subsection{Results of Part 1}
+To briefly comment on current performance, a \textit{single pass }of the MCMC when successful runs $3000$ iterations in $\approx 5s$ and decoding accuracy $\approx .97$. However, due to faulty initialization and general convergence issues, it is only successful about $\frac{1}{3}$ of the time. The following plot shows the convergence of the current permutation log likelihood as function of iteration.
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=.3]{logl.png}
+\caption{Log Likelihood as function of number of Iterations}
+\end{figure}
+
+Essentially, 
+
+
+
+
+
+
+
+\end{document}
