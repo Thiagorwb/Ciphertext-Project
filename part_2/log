@@ -6783,3 +6783,663 @@ ComparisonError: strings to compare must have the same length
     raise ComparisonError("strings to compare must have the same length")
 ComparisonError: strings to compare must have the same length
 
+[2019-04-30 23:03:05.112257] !!! ERROR !!!
+[2019-04-30 23:03:05.115866] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:03:41.977528] !!! ERROR !!!
+[2019-04-30 23:03:41.979018] Traceback (most recent call last):
+  File "test.py", line 76, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:05:21.126835] !!! ERROR !!!
+[2019-04-30 23:05:21.128168] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:08:15.396469] !!! ERROR !!!
+[2019-04-30 23:08:15.397179] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:09:31.737201] !!! ERROR !!!
+[2019-04-30 23:09:31.737717] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:12:19.559991] !!! ERROR !!!
+[2019-04-30 23:12:19.560696] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:12:37.150456] !!! ERROR !!!
+[2019-04-30 23:12:37.150887] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:13:09.280898] !!! ERROR !!!
+[2019-04-30 23:13:09.281356] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:13:45.460571] !!! ERROR !!!
+[2019-04-30 23:13:45.461199] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:16:49.501499] !!! ERROR !!!
+[2019-04-30 23:16:49.503091] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-04-30 23:18:33.461143] !!! ERROR !!!
+[2019-04-30 23:18:33.461957] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-01 00:21:45.391404] !!! ERROR !!!
+[2019-05-01 00:21:45.393708] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:22:11.844294] !!! ERROR !!!
+[2019-05-09 00:22:11.846210] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:24:12.717284] !!! ERROR !!!
+[2019-05-09 00:24:12.717769] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 29, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:25:25.468148] !!! ERROR !!!
+[2019-05-09 00:25:25.468585] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:26:44.966004] !!! ERROR !!!
+[2019-05-09 00:26:44.966490] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:28:26.993386] !!! ERROR !!!
+[2019-05-09 00:28:26.993773] Traceback (most recent call last):
+  File "test.py", line 79, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 59, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:28:55.556193] !!! ERROR !!!
+[2019-05-09 00:28:55.556719] Traceback (most recent call last):
+  File "test.py", line 80, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 60, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:30:39.377781] !!! ERROR !!!
+[2019-05-09 00:30:39.378292] Traceback (most recent call last):
+  File "test.py", line 79, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 59, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:34:10.757811] !!! ERROR !!!
+[2019-05-09 00:34:10.758565] Traceback (most recent call last):
+  File "test.py", line 77, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:45:48.753302] !!! ERROR !!!
+[2019-05-09 00:45:48.754821] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:46:23.882862] !!! ERROR !!!
+[2019-05-09 00:46:23.883426] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:47:16.739829] !!! ERROR !!!
+[2019-05-09 00:47:16.740277] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:49:31.542896] !!! ERROR !!!
+[2019-05-09 00:49:31.543305] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:50:16.507274] !!! ERROR !!!
+[2019-05-09 00:50:16.508764] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:51:16.686883] !!! ERROR !!!
+[2019-05-09 00:51:16.688768] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:52:02.091137] !!! ERROR !!!
+[2019-05-09 00:52:02.093121] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 00:53:00.142563] !!! ERROR !!!
+[2019-05-09 00:53:00.143699] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
+  File "test.py", line 58, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+
+[2019-05-09 01:43:51.936594] !!! ERROR !!!
+[2019-05-09 01:43:51.937144] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:43:51.972720] !!! ERROR !!!
+[2019-05-09 01:43:51.973023] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:45:10.603962] !!! ERROR !!!
+[2019-05-09 01:45:10.604179] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:45:10.643215] !!! ERROR !!!
+[2019-05-09 01:45:10.643455] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:46:02.378099] !!! ERROR !!!
+[2019-05-09 01:46:02.378348] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:46:02.416050] !!! ERROR !!!
+[2019-05-09 01:46:02.416285] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:46:41.355611] !!! ERROR !!!
+[2019-05-09 01:46:41.355825] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:46:41.392121] !!! ERROR !!!
+[2019-05-09 01:46:41.392339] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 78
+    return pass
+              ^
+SyntaxError: invalid syntax
+
+[2019-05-09 01:47:21.352215] !!! ERROR !!!
+[2019-05-09 01:47:21.352519] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 01:47:59.404400] !!! ERROR !!!
+[2019-05-09 01:47:59.404635] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 01:55:57.673029] !!! ERROR !!!
+[2019-05-09 01:55:57.673300] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 01:57:00.090450] !!! ERROR !!!
+[2019-05-09 01:57:00.090742] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 01:57:27.463925] !!! ERROR !!!
+[2019-05-09 01:57:27.464195] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 01:57:46.047089] !!! ERROR !!!
+[2019-05-09 01:57:46.047328] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 01:58:00.907632] !!! ERROR !!!
+[2019-05-09 01:58:00.907924] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:00:22.964545] !!! ERROR !!!
+[2019-05-09 02:00:22.964855] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:00:53.373920] !!! ERROR !!!
+[2019-05-09 02:00:53.374159] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:01:23.113351] !!! ERROR !!!
+[2019-05-09 02:01:23.113615] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:01:37.093365] !!! ERROR !!!
+[2019-05-09 02:01:37.093629] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:01:57.051180] !!! ERROR !!!
+[2019-05-09 02:01:57.051430] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:02:28.930118] !!! ERROR !!!
+[2019-05-09 02:02:28.930482] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:02:53.927320] !!! ERROR !!!
+[2019-05-09 02:02:53.927617] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:03:13.166078] !!! ERROR !!!
+[2019-05-09 02:03:13.166481] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:03:41.343544] !!! ERROR !!!
+[2019-05-09 02:03:41.343756] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 35, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:04:42.450643] !!! ERROR !!!
+[2019-05-09 02:04:42.450986] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:05:09.999495] !!! ERROR !!!
+[2019-05-09 02:05:09.999769] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:06:48.796068] !!! ERROR !!!
+[2019-05-09 02:06:48.796387] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:07:10.037703] !!! ERROR !!!
+[2019-05-09 02:07:10.037992] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: 'int' object is not iterable
+
+[2019-05-09 02:39:47.014827] !!! ERROR !!!
+[2019-05-09 02:39:47.015303] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 152
+    if 
+      ^
+SyntaxError: invalid syntax
+
+[2019-05-09 02:39:47.056948] !!! ERROR !!!
+[2019-05-09 02:39:47.057108] Traceback (most recent call last):
+  File "./decode", line 7, in <module>
+    from decode import decode
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 152
+    if 
+      ^
+SyntaxError: invalid syntax
+
+[2019-05-09 02:40:24.688035] !!! ERROR !!!
+[2019-05-09 02:40:24.688669] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: BreakDecode() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:40:47.750195] !!! ERROR !!!
+[2019-05-09 02:40:47.750442] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: BreakDecode() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:41:21.802179] !!! ERROR !!!
+[2019-05-09 02:41:21.802443] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: BreakDecode() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:41:48.231434] !!! ERROR !!!
+[2019-05-09 02:41:48.231747] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: BreakDecode() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:53:21.435693] !!! ERROR !!!
+[2019-05-09 02:53:21.436241] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: BreakDecode() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:57:57.736721] !!! ERROR !!!
+[2019-05-09 02:57:57.736967] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: BreakDecode() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:58:45.937333] !!! ERROR !!!
+[2019-05-09 02:58:45.937565] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = FindOptimalX(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: FindOptimalX() got an unexpected keyword argument 'brute'
+
+[2019-05-09 02:59:59.984976] !!! ERROR !!!
+[2019-05-09 02:59:59.986055] Traceback (most recent call last):
+  File "./decode", line 14, in <module>
+    main()
+  File "./decode", line 11, in main
+    print decode(sys.argv[1], has_breakpoint)
+  File "/Users/thiagobergamaschi/Documents/MIT/6/6.437/part_2/decode.py", line 34, in decode
+    permutation, logl, position = FindOptimalX(niters, nstop, textvector, logtransitions, letterp, N, threaded, brute = 10, fine = 100)
+TypeError: FindOptimalX() got an unexpected keyword argument 'brute'
+
+[2019-05-09 20:39:47.975719] !!! ERROR !!!
+[2019-05-09 20:39:47.978405] Traceback (most recent call last):
+  File "test.py", line 78, in main
+    (elapsed_time2, score2, max_score2, output) = test(executable, plaintext, ciphertext_with_breakpoint, True)
+  File "test.py", line 57, in test
+    score = compare(plaintext, output)
+  File "test.py", line 28, in compare
+    raise ComparisonError("strings to compare must have the same length")
+ComparisonError: strings to compare must have the same length
+

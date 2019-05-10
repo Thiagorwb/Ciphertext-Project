@@ -5,6 +5,7 @@ Plots and statistics
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
+import decode
 
 def acceptanceplot(acceptance, T):
     """input: boolean list acceptance, integer window size T"""
@@ -91,6 +92,21 @@ def accuracy(plaintext, computedtext):
             c+= 1
 
     return float(c)/len(plaintext)
+
+def parallizationaccuracyplot(ciphertext, plaintext, has_breakpoint = False, npoints = 5, maximum = 35):
+
+    accuracies = []
+    for i in range(2, maximum, npoints):
+        computedtext = decode.decode(ciphertext, i, has_breakpoint)
+        accuracies.append(statistics.accuracy(plaintext, computedtext))
+
+    fig, ax = plt.subplots()
+    ax.plot(range(1, 35, 5), accuracies)
+    ax.set(xlabel = "Number of threads", ylabel = "Accuracy")
+    fig.savefig("threads.png")
+
+
+
 
 
 

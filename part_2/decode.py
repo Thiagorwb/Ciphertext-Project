@@ -2,7 +2,6 @@ import numpy as np
 import util
 from math import log
 import statistics
-import decodep1
 import riffleshuffle
 import hungarian
 from threading import Thread
@@ -10,7 +9,7 @@ import time
 import matplotlib as plt
 
 
-def decode(ciphertext, N, has_breakpoint = None):
+def decode(ciphertext, has_breakpoint = False, niters = 5000, N = 5, threaded = True):
     """ 
     input: ciphertext, string; has_breakpoint, boolean
     output: plaintext string, decoded and statistics tuple of loglikelihoods and boolean acceptance
@@ -21,108 +20,138 @@ def decode(ciphertext, N, has_breakpoint = None):
     transitions = util._read_csv("data", "letter_transition_matrix")
     letterp = util._read_csv("data", "letter_probabilities")[0]
 
-    #Number of threads
-
     # constants
     m = len(alphabet)
-    niters = 4000
-    nstop = 100
+    nstop = 300
 
-    #indexation
+    #indexation and logtransition array
     textvector = util.to_index(ciphertext, alphabet)
-
-    #compute logs and perturb 0 values
     logtransitions = logtransitionmatrix(transitions)
 
-    
-    #ensemble MCMC
+    # breakpoint decode
+    if has_breakpoint:
+        permutations, logl, position = FindOptimalX(3000, nstop, textvector, logtransitions, letterp, N, threaded)
+        plaintext = breakdecrypt(permutations[0], permutations[1], position, textvector, alphabet) 
+
+    else:
+        permutation, logl = SimpleDecode(niters, nstop, textvector, logtransitions, letterp,  threaded, N)
+        plaintext = decrypt(permutation, textvector, alphabet)
+
+    return plaintext
+
+def EnsembleMCMC(niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp, N):
+    """
+    input: integer number of iterations and termination, textvector array, letterp array, and integer number of threads
+    output: float maxlogl and permutation array of integers
+    """
+
+    #Parallelization
     results = [{} for i in range(N)]
-    threads = [] 
+    threads = []
+
     for i in range(N):
-        # print "starting thread " + str(i)
-        process = Thread(target = simpledecode, args = [niters, nstop, textvector, logtransitions, letterp,  results, i, True])
+        process = Thread(target = MCMC, args = [niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp,  True, results, i])
         threads.append(process)
         process.start()
 
     for process in threads:
         process.join()
-    
-    optlogl = results[0][1]
-    optimumpermutation = results[0][0]
+
+    # Finding maximum
+    maxpermutation, maxlogl = results[0]
     for (permutation, logl) in results:
-        if logl > optlogl:
-            optlogl = logl
-            optimumpermutation = permutation
-  
-    """
-    
-    # single pass
-    optimumpermutation, optlogl = simpledecode(niters, nstop, textvector, transitions, letterp)
-    for i in range(10):
-        p, logl  = simpledecode(niters, nstop, textvector, transitions, letterp)
-        if optlogl < logl:
-            optlogl = logl
-            optimumpermutation = p
+        if logl > maxlogl:
+            maxlogl = logl
+            maxpermutation = permutation
 
+    return permutation, maxlogl
+
+
+def BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, x):
+    """ Function returns list [f1, f2, x] of cipher functions and approximate breakpoint position x
+        Brute Force Search in large intervals then fine grained
     """
 
-    print optlogl
-
-
-    # decode
-    plaintext = decrypt(optimumpermutation, textvector, alphabet)
-
-    return plaintext
-
-def breakpointdecode(niters, nstop, textvector, logtransitions, letterp, results = None,  i = None,  multithread = False):
-    """ Function returns list [f1, f2, x] of cipher functions and approximate breakpoint position x through brute force iteration"""
     n = len(textvector)
 
-    imax = 0
-    maxll, p0 = simpledecode(niters, nstop, textvector, transitions, letterp, results = None,  i = None,  multithread = False)
-    for i in range(n/100, n, n/100):
+    p1, ll1 = SimpleDecode(niters, nstop, textvector[:x], logtransitions, letterp, N, threaded)
+    p2, ll2 = SimpleDecode(niters, nstop, textvector[x:], logtransitions, letterp, N, threaded)
 
-        # definitions,  precomputation of count matrix, the sufficient statistic
-        m = len(letterp)
-        ciphermatrix = statistics.count_matrix(textvector[:i], m)
+    
+    return (p1, p2), ll1 + ll2
 
 
 
 
+def FindOptimalX(niters, nstop, textvector, logtransitions, letterp, N, threaded):
+    """ Binary Search on loglikelihoods of given splits"""
+
+    n = len(textvector)
+    brute = n/100
+
+
+    mx = n/2
+    permutations = None
+
+    upper = n
+    lower = 0
+
+    while (not permutations) or upper - lower >= brute:
+
+
+        permutations, mll = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, mx)
+        lx = mx - brute
+        leftpermutations, lmll = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, lx)
+        #rightpermutations, rmll = BreakDecode(niters, nstop, textvector, logtransitions, letterp, N, threaded, rx)
+
+        if mll > lmll:
+            lower = mx
+        else:
+            upper = mx
+
+        mx = (lower + upper)/2
+
+
+    return permutations, mll, mx
 
 
 
-        p1, ll1 = simpledecode(niters, nstop, textvector[:i], logtransitions, letterp, results = None,  i = None,  multithread = False)
-        p2, ll2 = simpledecode(niters, nstop, textvector[i:], logtransitions, letterp, results = None,  i = None,  multithread = False)
-        
-        if maxll < ll1 + ll2:
-            maxll = ll1 + ll2
-            p0 = (p1, p2)
 
-    return maxll, p0, imax
+def SimpleDecode(niters, nstop, textvector, logtransitions, letterp,  N, threaded = False):    
+    """Conditions on parallelization and calls Markov Chain Methods
+        Returns permutation array, loglikelihood value"""
 
+    #statistics of text
+    ciphermatrix = statistics.count_matrix(textvector, len(letterp))
+    empiricalfrequencies = statistics.empiricalfrequency(textvector, len(letterp))
 
+    #parallelization and repetition
+    if not threaded and N == 1:
+        return MCMC(niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp)
+    elif N > 1 and threaded:
+        return EnsembleMCMC(niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp, N)
+    else: 
+        mp, maxlogl = MCMC(niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp)
+        for i in range(N):
+            p, logl  = MCMC(niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp)
+            if maxlogl < logl:
+                maxlogl = logl
+                mp = p
 
+    return mp, maxlogl
 
-
-
-
-
-
-
-def simpledecode(niters, nstop, textvector, logtransitions, letterp, results = None,  i = None,  multithread = False):
+def MCMC(niters, nstop, ciphermatrix, empiricalfrequencies, logtransitions, letterp, threaded = False, results = None, i = None):
     """ given ciphermatrix and transition probabilities, returns most likely cipher permutation"""
 
     # definitions,  precomputation of count matrix, the sufficient statistic
     m = len(letterp)
-    ciphermatrix = statistics.count_matrix(textvector, m)
 
     #initialize MCMC using Linear assignment
+    permutation = Initialize(empiricalfrequencies, letterp)
+    logl = loglikelihood(ciphermatrix, logtransitions, permutation)
     t = 0
     s = 0
-    permutation = initialize(textvector, letterp)
-    logl = loglikelihood(ciphermatrix, logtransitions, permutation)
-
+    
     # initialize statistics
     maximumlogl = logl
     optimumpermutation = permutation
@@ -132,7 +161,7 @@ def simpledecode(niters, nstop, textvector, logtransitions, letterp, results = N
     while t < niters and s < nstop:
 
         # step
-        new_permutation = genpermutationsimple(permutation)
+        new_permutation = swap_permute(permutation)
         new_logl = loglikelihood(ciphermatrix, logtransitions, new_permutation)
         ratiolog = new_logl - logl
 
@@ -154,22 +183,14 @@ def simpledecode(niters, nstop, textvector, logtransitions, letterp, results = N
 
         t += 1
 
-    if multithread:
-        results[i] = (optimumpermutation, maximumlogl)
-        return 
+    if threaded:
+        results[i] = [optimumpermutation, maximumlogl]
+        return
 
     else:
         return (optimumpermutation, maximumlogl)
 
-def genpermutationsimple(permutation):
-    # returns permutation by swapping 2 positions
-    m = len(permutation)
-    a, b = np.random.randint(0, m, 2)
-    new_permutation = permutation.copy()
-    new_permutation[a], new_permutation[b] = new_permutation[b],new_permutation[a]
-    return new_permutation
-
-def initialize(textvector, letterp):
+def Initialize(empiricalfrequencies, letterp):
     """ 
     Returns initial permutation numpy array assigned by linear assignment. 
     input is lists textvector of integer indices, alphabet of chars, and letter probabilities
@@ -177,8 +198,6 @@ def initialize(textvector, letterp):
     """
 
     m = len(letterp)
-
-    empiricalfrequencies = statistics.empiricalfrequency(textvector, m)
 
     cost_matrix = np.zeros((m, m))
 
@@ -188,12 +207,12 @@ def initialize(textvector, letterp):
 
     return hungarian.linear_sum_assignment(cost_matrix)[1]
 
-def genpermutation(permutation):
+def rifflepermute(permutation):
     """ given numpy array of integers permutation, returns riffle-shuffled permutation"""
     return riffleshuffle.shuffle(permutation)
 
-def genpermutationsimple(permutation):
-    # returns permutation by swapping 2 positions
+def swap_permute(permutation):
+    # returns permutation array by swapping 2 positions
     m = len(permutation)
     a, b = np.random.randint(0, m, 2)
     new_permutation = permutation.copy()
@@ -225,7 +244,7 @@ def logtransitionmatrix(transitions):
     m = len(logmatrix)
     for i in range(m):
         for j in range(m):
-            logmatrix[i, j] = log(float(transitions[i, j])) if float(transitions[i, j])!=0.0 else -1000
+            logmatrix[i, j] = log(float(transitions[i, j])) if float(transitions[i, j])!=0.0 else -2000
     return logmatrix
 
 def decrypt(permutation, textvector, alphabet):
@@ -233,44 +252,36 @@ def decrypt(permutation, textvector, alphabet):
     plaintext = ''.join(pcipher[index] for index in textvector)
     return plaintext
 
+def breakdecrypt(p1,p2,x, textvector, alphabet):
+    s1 = decrypt(p1, textvector[:x], alphabet)
+    s2 = decrypt(p2, textvector[x:], alphabet)
+    return s1+s2
+
+
 if __name__ == '__main__':
 
     start = time.time()
 
     # import text
-    ciphertext = util._read_text(None, "test_ciphertext")
+    ciphertext = util._read_text(None, "test_ciphertext_breakpoint")
     plaintext = util._read_text(None, "test_plaintext")
-    alphabet = util._read_csv("data", "alphabet")[0]    
-
-    """
-    # parallelization accuracy test
-
-    accuracies = []
-    for i in range(2, 45, 5):
-        computedtext = decode(ciphertext, i, False)
-        accuracies.append(statistics.accuracy(plaintext, computedtext))
-
-    fig, ax = plt.subplots()
-    ax.plot(range(1, 35, 5), accuracies)
-    ax.set(xlabel = "Number of threads", ylabel = "Accuracy")
-    fig.savefig("threads.png")
+    alphabet = util._read_csv("data", "alphabet")[0]
+    #textvector = util.to_index(ciphertext, alphabet)
+    #letterp = util._read_csv("data", "letter_probabilities")[0]
 
 
-    """
+   
+    ################################
 
     # Decode
-    computedtext= decode(ciphertext, False)
+    computedtext = decode(ciphertext, True)
 
-    # Correctness, number of mistakes
-    if len(computedtext)!=len(ciphertext):
-        print "length FAIL"
-
+    
     end = time.time()
+    print "evaluation time is", end - start
 
-    print("evaluation time is", end - start)
-
-    print "accuracy is ", statistics.accuracy(plaintext, computedtext)
-    """
+    print "final accuracy is ", statistics.accuracy(plaintext, computedtext)
+    
 
     
 

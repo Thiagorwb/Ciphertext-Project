@@ -17,7 +17,6 @@ log_filename = 'log'
 def log(message, logfile=log_filename):
     timestamp = '[' + str(datetime.datetime.now()) + '] ' 
     text = timestamp + str(message)
-    print text
     with open(logfile, 'a') as f: # Open log file in append mode
         f.write(text + '\n')
 
@@ -42,7 +41,6 @@ def test(executable_path, plaintext, ciphertext, breakpoint):
 
         start_time = time()
         output = subprocess.check_output(['./'+executable_file, ciphertext, str(breakpoint)], stderr=subprocess.STDOUT).rstrip('\r\n')
-        print("my output", type(output), len(output))
         end_time = time()
     except subprocess.CalledProcessError as e:
         os.chdir(start_dir) ###### CHANGE BACK TO ORIGINAL DIRECTORY
@@ -56,6 +54,7 @@ def test(executable_path, plaintext, ciphertext, breakpoint):
         os.chdir(start_dir) ###### CHANGE BACK TO ORIGINAL DIRECTORY
         elapsed_time = end_time - start_time
         score = compare(plaintext, output)
+        print score
         max_score = len(plaintext)
 
     return (elapsed_time, score, max_score, output)
@@ -73,7 +72,6 @@ def main():
     ciphertext = first_line('./test_ciphertext.txt')
     ciphertext_with_breakpoint = first_line('./test_ciphertext_breakpoint.txt')
     print "Running your code..."
-    print(type(ciphertext), len(ciphertext))
     try:
         (elapsed_time1, score1, max_score1, output) = test(executable, plaintext, ciphertext, False)
         (elapsed_time2, score2, max_score2, output) = test(executable, plaintext, ciphertext_with_breakpoint, True)
