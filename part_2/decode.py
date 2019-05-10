@@ -263,7 +263,7 @@ if __name__ == '__main__':
     start = time.time()
 
     # import text
-    ciphertext = util._read_text(None, "test_ciphertext_breakpoint")
+    ciphertext = util._read_text(None, "test_ciphertext")
     plaintext = util._read_text(None, "test_plaintext")
     alphabet = util._read_csv("data", "alphabet")[0]
     #textvector = util.to_index(ciphertext, alphabet)
@@ -274,7 +274,7 @@ if __name__ == '__main__':
     ################################
 
     # Decode
-    computedtext = decode(ciphertext, True)
+    computedtext = decode(ciphertext, False)
 
     
     end = time.time()
