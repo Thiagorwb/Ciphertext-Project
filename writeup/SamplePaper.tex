@@ -78,7 +78,8 @@ Given apriori probabilities for the letters in the english language, $p_a(i)=\ma
 p_{\mathbf{y}|f}(\mathbf{y}|f) =  p_a(f^{-1}(y_1))\times \prod_{i=1} \mathbb{P}[f^{-1}(y_{i+1}) |f^{-1}(x_{i})]
 \end{equation}
 
-For part 1 of this project, we implement a simple Markov Chain on the set of possible permutations. This approach is shown in section 2 of the report, where we discuss and test general implementation enhancements as well. In section 3, we describe the algorithmic enhancements used in part 2. In particular, running multiple ($N = 5$ typically) walks on the Markov Chain and returning the maximum decreases the failure probability considerably, at little to no increase in runtime. Next, we improve on the permutation initialization by linear assignment. We define costs for each swap $ij$ of the permutation, based on the a priori probability of $i$ in the English language, and the empirical probability of $j$ in the ciphertext, and solve the assignment problem with the Hungarian algorithm.
+For part 1 of this project, we implement a simple Markov Chain on the set of possible permutations. This approach is shown in section 2 of the report, where we discuss and test general implementation enhancements as well. In section 3, we describe the algorithmic enhancements used in part 2. In particular, running multiple ($N = 5$ typically) walks on the Markov Chain and returning the maximum decreases the failure probability considerably, at little to no increase in runtime. Next, we improve on the permutation initialization by linear assignment. We define costs for each swap $ij$ of the permutation, based on the a priori probability of $i$ in the English language, and the empirical probability of $j$ in the ciphertext, and solve the assignment problem with the Hungarian algorithm. Finally, in section 4, we adapt our implementation for the existence of a breakpoint in the ciphertext.
+
 
 \section{Markov Chain Monte Carlo}
 Given these likelihoods, we can construct a Markov Chain on the set of possible permutations. Define edges between permutations that swap a pair of letters. At each vertex $f$, we pick one of $\binom{28}{2}$ adjacent edges $f'$, and transition there with probability
@@ -86,7 +87,7 @@ Given these likelihoods, we can construct a Markov Chain on the set of possible 
 \min\{1, \frac{p_{\mathbf{y}|f}(\mathbf{y}|f')}{p_{\mathbf{y}|f}(\mathbf{y}|f)}\}
 \end{equation}
 
-the algorithmic description follows.\\
+The algorithmic description follows.\\
 
 \noindent \textbf{Input:} alphabet $A$, ciphertext $\mathbf{y}$, iteration number $T$.
 \noindent\textbf{Output:} most probable permutation $f_p$
@@ -94,16 +95,14 @@ the algorithmic description follows.\\
 
 
 \begin{enumerate}
-\item initialize $f$ with some random permutation of $A$, and iteration count $t=0$. Compute $p_{\mathbf{y}|f}(\mathbf{y}|f)$
-\item While $t<T$, construct $f'$ by swapping 2 letters of $f$, and compute $p_{\mathbf{y}|f}(\mathbf{y}|f')$
-\item If $\frac{p_{\mathbf{y}|f}(\mathbf{y}|f')}{p_{\mathbf{y}|f}(\mathbf{y}|f)}> 1, f=f'$. 
+\item initialize $f$ with some random permutation of $A$, and iteration count $t=0$. Compute $p_{\mathbf{y}|f}(\mathbf{y}|f)$.
+\item While $t<T$, construct $f'$ by swapping 2 letters of $f$, and compute $p_{\mathbf{y}|f}(\mathbf{y}|f')$.
+\item Pick a random $x\in [0, 1]$. If $\frac{p_{\mathbf{y}|f}(\mathbf{y}|f')}{p_{\mathbf{y}|f}(\mathbf{y}|f)}> x, f\leftarrow f'$.
 \item $t\leftarrow t + 1$, repeat step 2.
-\item Return $f$
+\item Return $f$.
 \end{enumerate}
 
-Clearly, there is immediate space for improvement by speeding up the $p_{\mathbf{y}|f}(\mathbf{y}|f)$ computation. Let us do so by definining a sufficient st
-
-Let us now describe some of the performance enhancements used on the MCMC computations. Specifically, we focus on defining a less memory intensive sufficient statistic, quickly computing loglikelihoods, and perturbing the 0 transition probabilities s.t. the loglikelihoods are strictly finite.
+Clearly, there is immediate space for improvement by speeding up the $p_{\mathbf{y}|f}(\mathbf{y}|f)$ computation. Some of the performance enhancements include defining a less memory intensive sufficient statistic, quickly computing loglikelihoods, and perturbing the 0 transition probabilities s.t. the loglikelihoods are strictly finite.
 
 \subsection{Performance Enhancements}
 Note first that we can compute the log likelihood $\log p_{\mathbf{y}|f}(\mathbf{y}|f)$ from $\log p_a(f^{-1}(y))$, and the count matrix $C$ where $c_{ij}$ is the number of times $j$ is preceded by $i$ in $y$. It follows 
@@ -118,7 +117,7 @@ Moreover, we can precompute $C$ in $O(\text{text size})$ and compute the loglike
 Finally, note that if we initialize the MCMC at some permutation $f$ that implies $p_{\mathbf{y}|f}(\mathbf{y}|f) = 0$ due to some 0 valued $M_{ij}$, then the loglikelihood value will be $-\infty$. More importantly, empirical evidence suggests that randomly initializing $f$ sets a considerable probability of failure, due to taking a long time to leave this minima. We easily fix this by assigning large, finite, negative values to the values of $\log M_{ij}$ when $M_{ij} = 0$. In particular, $-2000$ was found to work well.
 
 \subsection{Results of Part 1}
-To briefly comment on current performance, a \textit{single pass }of the MCMC when successful runs $3000$ iterations in $\approx 5s$ and decoding accuracy $\approx .97$. However, due to faulty initialization and general convergence issues, it is only successful about $\frac{1}{3}$ of the time. The following plot shows the convergence of the current permutation log likelihood as function of iteration.
+To briefly comment on current performance, a \textit{single pass }of the MCMC when successful runs $3000$ iterations in $\approx 5s$ and decoding accuracy $\approx .97$. However, due to faulty initialization and general convergence issues, it is only successful about $\frac{2}{3}$ of the time. The following plot shows the convergence of the current permutation log likelihood as function of iteration.
 
 \begin{figure}[h]
 \centering
@@ -126,9 +125,28 @@ To briefly comment on current performance, a \textit{single pass }of the MCMC wh
 \caption{Log Likelihood as function of number of Iterations}
 \end{figure}
 
-Essentially, 
+As of part 1, we can guarantee fault tolerance, and larger accuracy at the cost of runtime by sequentially repeating, and taking the maximum returned log likelihoods. We hope to build on the accuracy in part 2.
+
+\section{Algorithmic Enhancements}
+We suggest 2 main algorithmic enhancements. The first is to run multiple threads/walks in parallel, and take the maximum among them. The second is to build on the initialization to guarantee a non zero (or non-negligible) initial accuracy. We do so as a linear assignment problem, matching the a priori probabilities $p_a(\cdot)$ with the empirical frequencies $q_{a'}(\cdot)$ in the cipher, thereby matching each $a$ with an $a'$. 
+
+We introduce a performance improvement as well. Empirical evidence suggests the log of the likelihood ratio is typically has large absolute value. So, instead on generating random $x\in[0, 1]$ to define the acceptance (2), we just condition on the log of the likelihood ratio to be positive. This slightly increases runtime.
 
 
+
+\subsection{Initialization}
+We construct a bipartite graph $[|A|]\cup [|A|]$ corresponding to matching the alphabet to a permutation. We set costs $V_{ij} = (p_a(i)-q_{a'}(j))^2$, defining a cost matrix $V$. We then run the Hungarian algorithm to find a min cost perfect matching, returning a permutation of $A$. This allows us to initialize each MCMC with a permutation with initial accuracy $\approx .45 \pm .05$. A thorough algorithmic description can be found in [1].
+
+\subsection{Multiple Walks}
+As of part 3.A, one pass of our MCMC runs 7000 iterations in approximately $6\pm 1$s, and has average accuracy .999 when successful, .84 overall. When we use $\geq 3$ threads or sequential repetitions, each running an MCMC on 7000 iterations, the overall accuracy increases to .999.
+
+
+
+\section{Breakpoint}
+We find the breakpoint within $n/200$th characters by binary search for the maximum loglikelihood position. In particular, for each possible breakpoint position $x$, we run the MCMC on the first $x$ characters and the remaining $n-x$, and sum their loglikelihoods. If the loglikelihood is larger than the loglikelihood at $x-\frac{n}{100}$, then we recursively search in the right half, and vice versa. This runs in $\geq \log_2 100$ recursive steps, each calls twice the algorithm in part 3. The runtime is approximately 500s, for a .993 average accuracy.
+
+\section{Conclusion}
+In this report, I comment on my refinements to the MCMC approach in part 1 with 2 algorithmic improvements, parallelization and guaranteed initialization with linear assignment. In section 2, I briefly present algorithm used, and the implementation details in part 1. Finally, I describe my approach to the breakpoint problem in section 4.
 
 
 
